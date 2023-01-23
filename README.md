@@ -33,7 +33,7 @@ Latest version of JDK (Java Development Kit)
 
 step 1: Install Latest version of JDK.
 
-step 2: Download the project code [click here to download](google.com) and Unzip/Extract the file.
+step 2: Download the project code [click here to download](https://github.com/theashishgavade/Message-encryption-and-decryption-using-AES-Algorithm-Java/archive/refs/heads/main.zip) and Unzip/Extract the file.
 
 step 3: Open src/ecryptiondecryption in extracted folder.
 
