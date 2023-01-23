@@ -31,8 +31,6 @@ Latest version of JDK (Java Development Kit)
 
 ### How to Install :- 
 
-
-
 step 1: Install Latest version of JDK.
 
 step 2: Download the project code [click here to download](google.com) and Unzip/Extract the file.
@@ -41,60 +39,47 @@ step 3: Open src/ecryptiondecryption in extracted folder.
 
 step 4: Now Just compile and run the source.java file to start the application.
 
+### System Architecture
+<a target="_blank">
+  <img align="center" height="500" width="810" alt="PNG" src="https://user-images.githubusercontent.com/68729505/214135212-64b71ef6-fc95-403e-aba1-25ffe43ac368.png">
+</a>
+
+
 
 ## How it works
 
-### 1. Main Page
-![Image](https://github.com/theashishgavade/Railway-Ticket-Management-System/blob/main/Screenshots/1.%20Main%20Page.png)
+### 1. Main Window
+![Image](https://github.com/theashishgavade/Message-encryption-and-decryption-using-AES-Algorithm-Java/blob/main/Screenshots/1.Main%20screen.png)
 
 
 
-### 2. Contact us.png
-![Image](https://github.com/theashishgavade/Railway-Ticket-Management-System/blob/main/Screenshots/2.%20Contact%20us.png)
+### 2. Enter a Message with secret key
+![Image](https://github.com/theashishgavade/Message-encryption-and-decryption-using-AES-Algorithm-Java/blob/main/Screenshots/2.Message%20with%20secret%20key.png)
 
 
 
-### 3. Reservation main.png
-![Image](https://github.com/theashishgavade/Railway-Ticket-Management-System/blob/main/Screenshots/3.%20Reservation%20main.png)
+### 3. Click Encrypt button to Generate Encrypted text
+![Image](https://github.com/theashishgavade/Message-encryption-and-decryption-using-AES-Algorithm-Java/blob/main/Screenshots/3.Generate%20Encrypted%20text.png)
 
 
 
-### 4. Accomadetion
-![Image](https://github.com/theashishgavade/Railway-Ticket-Management-System/blob/main/Screenshots/4.%20Accomadetion.png)
+### 4. Copy the Encrypted text for securely share 
+![Image](https://github.com/theashishgavade/Message-encryption-and-decryption-using-AES-Algorithm-Java/blob/main/Screenshots/4.Copy%20the%20Encrypted%20text.png)
 
 
 
-### 5. Passenger Info.png
-![Image](https://github.com/theashishgavade/Railway-Ticket-Management-System/blob/main/Screenshots/5.%20Passenger%20Info.png)
+### 5. Run application on recivers system and pest the Encrypted text with correct secret key
+![Image](https://github.com/theashishgavade/Message-encryption-and-decryption-using-AES-Algorithm-Java/blob/main/Screenshots/5.Encrypted%20text%20with%20correct%20secret%20key.png)
 
 
 
-### 6. Booking Successful.png
-![Image](https://github.com/theashishgavade/Railway-Ticket-Management-System/blob/main/Screenshots/6.%20Booking%20Successful.png)
+### 6. Press Decrypt button to get Correct message
+![Image](https://github.com/theashishgavade/Message-encryption-and-decryption-using-AES-Algorithm-Java/blob/main/Screenshots/6.Correct%20Output.png)
 
 
 
-### 7. Booking Confirmation with online payment.png
-![Image](https://github.com/theashishgavade/Railway-Ticket-Management-System/blob/main/Screenshots/7.%20Booking%20Confirmation%20with%20online%20payment.png)
 
 
 
-### 8. Pay Online
-![Image](https://github.com/theashishgavade/Railway-Ticket-Management-System/blob/main/Screenshots/7.1%20Pay%20Online.png)
-
-
-
-### 9. Admin Login
-![Image](https://github.com/theashishgavade/Railway-Ticket-Management-System/blob/main/Screenshots/8.%20Admin%20Login_.png)
-
-
-
-### 10. Admin Pannel
-![Image](https://github.com/theashishgavade/Railway-Ticket-Management-System/blob/main/Screenshots/9.%20Admin%20Pannel.png)
-
-
-
-### 11. Booking _ Transaction Details
-![Image](https://github.com/theashishgavade/Railway-Ticket-Management-System/blob/main/Screenshots/10.%20Booking%20_%20Transaction%20Details.png)
 
 
